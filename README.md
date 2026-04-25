@@ -31,4 +31,4 @@ The script generates a list of IPs from the provided CIDR range and submits them
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
